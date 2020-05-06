@@ -1,0 +1,7 @@
+tool,all bugs,tool-chain bugs
+llvm core libraries,10338,488
+clang,18109,981
+libc++,957,33
+lldb,1175,73
+compiler-rt,508,95
+polly,362,52
