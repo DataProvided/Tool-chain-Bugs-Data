@@ -9,9 +9,9 @@
 - `commits`: LLVM tool-chain commits
   - `scripts`: for linkage between bugs and fixing commits
   - `commits.json`: linked commits
-- `statistick_0.csv`: statistics data for addressing tool-chain bugs' total amount and distribution
-- `statistics_1.csv`: statistics data for addressing tool-chain bugs' patterns
-- `statistics_2.csv`: statistics data for addressing tool-chain bugs' debugging and fixing
+- `statistick_0.csv`: statistics data for total amount and distribution of tool-chain bugs
+- `statistics_1.csv`: statistics data for tool-chain bug patterns
+- `statistics_2.csv`: statistics data for tool-chain bug debugging and fixing patterns
 - `statistics_classification.md`: statistics data about tool-chain bugs' classification on RQ2 and RQ3
 
 ## Data
